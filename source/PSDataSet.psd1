@@ -15,7 +15,7 @@
     Author               = 'Hannes Palmquist'
     CompanyName          = 'GetPS'
     Copyright            = '(c) Hannes Palmquist. All rights reserved.'
-    Description          = 'asd'
+    Description          = 'Tools for managing a .NET system data set'
     RequiredModules      = @()
     FunctionsToExport    = '*'
     CmdletsToExport      = '*'
