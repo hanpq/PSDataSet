@@ -8,7 +8,7 @@
 
 @{
     RootModule           = 'PSDataSet.psm1'
-    ModuleVersion        = '0.0.1'
+    ModuleVersion        = '1.8.0'
     CompatiblePSEditions = @('Desktop', 'Core')
     PowerShellVersion    = '5.1'
     GUID                 = 'dcef7454-2793-46f7-b843-90f30e476b0b'
