@@ -3,6 +3,13 @@
 The format is based on and uses the types of changes according to [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.8.2-beta001](https://github.com/hanpq/PSDataSet/compare/v1.8.0...v1.8.2-beta001) (2026-11-12)
+
+
+### Miscellaneous Chores
+
+* prepare 1.8.2-beta001 release ([053c768](https://github.com/hanpq/PSDataSet/commit/053c768af3af9baa3e14fe00e4676d325f1abaef))
+
 ## [Unreleased]
 
 ## [1.8.0] - 2023-01-12
